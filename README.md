@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shahbaz4595
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shahbaz Khan
+- 👀 I’m a UI/UX Consultant in Genpact
+- 🌱 I’m currently learning Node JS
+- 💞️ I love to create content around web dev
+- 📫 You can reach me at info@shahbazkhan.in
 
 <!---
 shahbaz4595/shahbaz4595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
