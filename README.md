@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shahbaz Khan
-- 👀 I’m a UI/UX Consultant in Genpact
-- 🌱 I’m currently learning Node JS
-- 💞️ I love to create content around web dev
+- 👀 I’m a MERN developer
 - 📫 You can reach me at info@shahbazkhan.in
 
 <!---
